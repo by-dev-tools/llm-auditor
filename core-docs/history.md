@@ -41,8 +41,8 @@ Use the `SAFETY` marker on any entry that modifies error handling, persistence, 
 
 ### Plan-critic sibling reviewer + marketplace metadata for v0.2.0
 **Date:** 2026-05-14
-**Branch:** guangzhou-v3
-**Commit:** [pending]
+**Branch:** project-status-overview
+**Commit:** 8ce9fb3
 
 **What was done:**
 Added a second skeptical reviewer alongside the existing auditor: the **plan-critic**, which checks proposed plans for *reasoning* gaps (scope drift, spec violation, internal incoherence) rather than *evidence* gaps. Shipped as v0.2.0.
